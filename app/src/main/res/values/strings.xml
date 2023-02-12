@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UserManagement</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="version">UserManagement_V_0.04</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">PassWord</string>
+    <string name="register">Register</string>
+    <string name="already_register_login_here">Already Register | Login Here</string>
+    <string name="login_account">Login Account</string>
+    <string name="login">Login</string>
+    <string name="not_register_create_new_account">Not Register | Create New Account</string>
+    <string name="profile">Profile</string>
+    <string name="users">Users</string>
+    <string name="dashboard">Dashboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
